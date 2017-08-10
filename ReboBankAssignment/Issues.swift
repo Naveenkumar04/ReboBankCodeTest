@@ -8,7 +8,7 @@
 
 import UIKit
 
-class Issues {
+struct Issues {
   
     // MARK:- variables
 

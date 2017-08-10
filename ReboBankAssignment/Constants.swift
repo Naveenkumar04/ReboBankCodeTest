@@ -22,6 +22,7 @@ struct Constants {
     static let csvFileParceErrorMessage = "Sorry!!! Encountered an error while parsing your CSV file"
     static let csvFileParceSuccessMessage = "Success!!! Your CSV file Data Loaded"
     static let csvFileNotFoundErrorMessage = "Sorry!!! There is no CSV file"
+    static let csvFileIsEmpty = "Sorry!!! There is no data in the CSV file"
 
     static let alertOKbuttonTitle = "Ok"
 }

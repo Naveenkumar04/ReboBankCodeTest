@@ -19,6 +19,9 @@
 		013C78B61F38DEE800B22034 /* IssuesListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013C78B51F38DEE800B22034 /* IssuesListViewModel.swift */; };
 		013C78B91F3901AB00B22034 /* IssueListViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013C78B81F3901AB00B22034 /* IssueListViewCell.swift */; };
 		013C78BB1F3901DC00B22034 /* IssueListHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013C78BA1F3901DC00B22034 /* IssueListHeaderView.swift */; };
+		014531FA1F3C2A3E00462060 /* IssuesList.csv in Resources */ = {isa = PBXBuildFile; fileRef = 014531F91F3C2A3E00462060 /* IssuesList.csv */; };
+		014531FC1F3C2B8300462060 /* IssuesListLarge.csv in Resources */ = {isa = PBXBuildFile; fileRef = 014531FB1F3C2B8300462060 /* IssuesListLarge.csv */; };
+		014531FE1F3C2C4000462060 /* IssuesEmpty.csv in Resources */ = {isa = PBXBuildFile; fileRef = 014531FD1F3C2C4000462060 /* IssuesEmpty.csv */; };
 		018A37091F39246400BA0FFE /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 018A37081F39246400BA0FFE /* Constants.swift */; };
 		01B93E8A1F39C10D0003F287 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B93E891F39C10D0003F287 /* Utils.swift */; };
 		01B93E8C1F39E6660003F287 /* UtilsTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B93E8B1F39E6660003F287 /* UtilsTest.swift */; };
@@ -65,6 +68,9 @@
 		013C78B51F38DEE800B22034 /* IssuesListViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssuesListViewModel.swift; sourceTree = "<group>"; };
 		013C78B81F3901AB00B22034 /* IssueListViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueListViewCell.swift; sourceTree = "<group>"; };
 		013C78BA1F3901DC00B22034 /* IssueListHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueListHeaderView.swift; sourceTree = "<group>"; };
+		014531F91F3C2A3E00462060 /* IssuesList.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = IssuesList.csv; sourceTree = "<group>"; };
+		014531FB1F3C2B8300462060 /* IssuesListLarge.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = IssuesListLarge.csv; sourceTree = "<group>"; };
+		014531FD1F3C2C4000462060 /* IssuesEmpty.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = IssuesEmpty.csv; sourceTree = "<group>"; };
 		018A37081F39246400BA0FFE /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		01B93E851F39B6C30003F287 /* ReboBankAssignment-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ReboBankAssignment-Bridging-Header.h"; sourceTree = "<group>"; };
 		01B93E891F39C10D0003F287 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
@@ -256,6 +262,9 @@
 		01D5F9431F38ACBA00F504E6 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				014531FD1F3C2C4000462060 /* IssuesEmpty.csv */,
+				014531FB1F3C2B8300462060 /* IssuesListLarge.csv */,
+				014531F91F3C2A3E00462060 /* IssuesList.csv */,
 				01D5F9441F38ACD600F504E6 /* Issues.csv */,
 			);
 			name = Resources;
@@ -382,8 +391,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				014531FC1F3C2B8300462060 /* IssuesListLarge.csv in Resources */,
 				01D5F9451F38ACD600F504E6 /* Issues.csv in Resources */,
+				014531FE1F3C2C4000462060 /* IssuesEmpty.csv in Resources */,
 				01304D481F38885600B4266E /* LaunchScreen.storyboard in Resources */,
+				014531FA1F3C2A3E00462060 /* IssuesList.csv in Resources */,
 				01304D451F38885600B4266E /* Assets.xcassets in Resources */,
 				01304D431F38885600B4266E /* Main.storyboard in Resources */,
 			);

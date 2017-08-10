@@ -34,12 +34,12 @@ class IssuesListViewModel : NSObject {
                 guard let strongSelf = self else { return}
                 if response != "" {
                     print(response)
-                    _ = strongSelf.parseCSVFileString(dataString: response)
+                    let isSuccess = strongSelf.parseCSVFileString(dataString: response)
+                    if (isSuccess)
+                    {
+                        strongSelf.refereshData()
+                    }
                 }
-            if response != "" {
-                print(response)
-                _ = self?.parseCSVFileString(dataString: response)
-            }
         })
         return issuesList
     }

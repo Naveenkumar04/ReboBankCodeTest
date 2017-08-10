@@ -31,7 +31,9 @@ class IssuesListViewController: UIViewController , UITableViewDataSource,UITable
         }
         let issueListModelView = IssuesListViewModel()
         self.issuesListData = issueListModelView.issuesList
-
+        if self.issuesListData.count == 0 {
+            fileEmptyAlert()
+        }
         
         // Do any additional setup after loading the view.
     }
@@ -85,6 +87,16 @@ class IssuesListViewController: UIViewController , UITableViewDataSource,UITable
     
     func fileNotFoundAlert() {
         let alert = UIAlertController(title: Constants.appTitle, message: Constants.csvFileNotFoundErrorMessage, preferredStyle: UIAlertControllerStyle.alert)
+        alert.addAction(UIAlertAction(title: Constants.alertOKbuttonTitle, style: UIAlertActionStyle.default, handler: nil))
+        self.present(alert, animated: true, completion: nil)
+    }
+    
+    // Method Description : This method is used to show alert when no files available
+    // Parameters : N/A
+    // Return Type : NA
+
+    func fileEmptyAlert() {
+        let alert = UIAlertController(title: Constants.appTitle, message: Constants.csvFileIsEmpty, preferredStyle: UIAlertControllerStyle.alert)
         alert.addAction(UIAlertAction(title: Constants.alertOKbuttonTitle, style: UIAlertActionStyle.default, handler: nil))
         self.present(alert, animated: true, completion: nil)
     }

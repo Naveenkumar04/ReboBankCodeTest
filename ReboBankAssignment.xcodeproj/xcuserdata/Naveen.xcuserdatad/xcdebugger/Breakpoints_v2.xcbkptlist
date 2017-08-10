@@ -42,11 +42,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ReboBankAssignment/IssuesListViewController.swift"
-            timestampString = "523951866.46672"
+            timestampString = "524037410.217954"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "74"
-            endingLineNumber = "74"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -73,8 +73,8 @@
                   symbolName = "ReboBankAssignment.IssuesListViewModel.issuesList.getter : Swift.Array&lt;ReboBankAssignment.Issues&gt;"
                   moduleName = "ReboBankAssignment"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/apple/Desktop/ReboBank%20Git/ReboBankAssignment/ReboBankAssignment/IssuesListViewModel.swift"
-                  timestampString = "523951867.535077"
+                  urlString = "file:///Users/apple/Naveen/ReboBankAssignment/ReboBankCodeTest/ReboBankAssignment/IssuesListViewModel.swift"
+                  timestampString = "524036089.446908"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "16"
@@ -88,8 +88,8 @@
                   symbolName = "ReboBankAssignment.IssuesListViewModel.issuesList.setter : Swift.Array&lt;ReboBankAssignment.Issues&gt;"
                   moduleName = "ReboBankAssignment"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/apple/Desktop/ReboBank%20Git/ReboBankAssignment/ReboBankAssignment/IssuesListViewModel.swift"
-                  timestampString = "523951867.536682"
+                  urlString = "file:///Users/apple/Naveen/ReboBankAssignment/ReboBankCodeTest/ReboBankAssignment/IssuesListViewModel.swift"
+                  timestampString = "524036089.448187"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "16"
@@ -103,13 +103,13 @@
                   symbolName = "ReboBankAssignment.IssuesListViewModel.init () -&gt; ReboBankAssignment.IssuesListViewModel"
                   moduleName = "ReboBankAssignment"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/apple/Desktop/ReboBank%20Git/ReboBankAssignment/ReboBankAssignment/IssuesListViewModel.swift"
-                  timestampString = "523951867.538121"
+                  urlString = "file:///Users/apple/Naveen/ReboBankAssignment/ReboBankCodeTest/ReboBankAssignment/IssuesListViewModel.swift"
+                  timestampString = "524036089.449453"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "16"
                   endingLineNumber = "16"
-                  offsetFromSymbolStart = "15">
+                  offsetFromSymbolStart = "19">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -121,13 +121,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ReboBankAssignment/IssuesListViewModel.swift"
-            timestampString = "523951866.46672"
+            timestampString = "524033115.832319"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "77"
             endingLineNumber = "77"
-            landmarkName = "parseCSVFileString(dataString:)"
-            landmarkType = "7">
+            landmarkName = "IssuesListViewModel"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -152,8 +152,8 @@
                   symbolName = "ReboBankAssignment.IssuesListViewModel.issueListViewController.getter : weak Swift.Optional&lt;ReboBankAssignment.IssuesListViewController&gt;"
                   moduleName = "ReboBankAssignment"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/apple/Desktop/ReboBank%20Git/ReboBankAssignment/ReboBankAssignment/IssuesListViewModel.swift"
-                  timestampString = "523951867.544091"
+                  urlString = "file:///Users/apple/Naveen/ReboBankAssignment/ReboBankCodeTest/ReboBankAssignment/IssuesListViewModel.swift"
+                  timestampString = "524036089.463081"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "19"
@@ -167,8 +167,8 @@
                   symbolName = "ReboBankAssignment.IssuesListViewModel.issueListViewController.setter : weak Swift.Optional&lt;ReboBankAssignment.IssuesListViewController&gt;"
                   moduleName = "ReboBankAssignment"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/apple/Desktop/ReboBank%20Git/ReboBankAssignment/ReboBankAssignment/IssuesListViewModel.swift"
-                  timestampString = "523951867.545268"
+                  urlString = "file:///Users/apple/Naveen/ReboBankAssignment/ReboBankCodeTest/ReboBankAssignment/IssuesListViewModel.swift"
+                  timestampString = "524036089.464284"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "19"
@@ -182,13 +182,317 @@
                   symbolName = "ReboBankAssignment.IssuesListViewModel.init () -&gt; ReboBankAssignment.IssuesListViewModel"
                   moduleName = "ReboBankAssignment"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/apple/Desktop/ReboBank%20Git/ReboBankAssignment/ReboBankAssignment/IssuesListViewModel.swift"
-                  timestampString = "523951867.546436"
+                  urlString = "file:///Users/apple/Naveen/ReboBankAssignment/ReboBankCodeTest/ReboBankAssignment/IssuesListViewModel.swift"
+                  timestampString = "524036089.465468"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "19"
                   endingLineNumber = "19"
-                  offsetFromSymbolStart = "95">
+                  offsetFromSymbolStart = "94">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReboBankAssignment/IssuesListViewModel.swift"
+            timestampString = "524034577.515143"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReboBankAssignment.IssuesListViewModel.loadData () -&gt; Swift.Array&lt;ReboBankAssignment.Issues&gt;"
+                  moduleName = "ReboBankAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Naveen/ReboBankAssignment/ReboBankCodeTest/ReboBankAssignment/IssuesListViewModel.swift"
+                  timestampString = "524036089.468945"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReboBankAssignment.IssuesListViewModel.(loadData () -&gt; Swift.Array&lt;ReboBankAssignment.Issues&gt;).(closure #1)"
+                  moduleName = "ReboBankAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Naveen/ReboBankAssignment/ReboBankCodeTest/ReboBankAssignment/IssuesListViewModel.swift"
+                  timestampString = "524036089.470205"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReboBankAssignment/IssuesListViewModel.swift"
+            timestampString = "524034584.358708"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "refereshData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReboBankAssignment/IssuesListViewModel.swift"
+            timestampString = "524034592.674479"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "parseCSVFileString(dataString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReboBankAssignment/IssuesListViewModel.swift"
+            timestampString = "524034986.214182"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "formIssuesListArray(parameter:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReboBankAssignment/CSVFileParser.swift"
+            timestampString = "524035070.761232"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "init(with:separator:headers:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReboBankAssignment/CSVFileParser.swift"
+            timestampString = "524035135.472562"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "init(with:headers:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReboBankAssignment/CSVFileParser.swift"
+            timestampString = "524035139.660383"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "init(with:separator:headers:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReboBankAssignment.CSVFileParser.init (with : Swift.String, separator : Swift.String, headers : Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;) -&gt; ReboBankAssignment.CSVFileParser"
+                  moduleName = "ReboBankAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Naveen/ReboBankAssignment/ReboBankCodeTest/ReboBankAssignment/CSVFileParser.swift"
+                  timestampString = "524036089.486802"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReboBankAssignment.CSVFileParser.(init (with : Swift.String, separator : Swift.String, headers : Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;) -&gt; ReboBankAssignment.CSVFileParser).(closure #1)"
+                  moduleName = "ReboBankAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Naveen/ReboBankAssignment/ReboBankCodeTest/ReboBankAssignment/CSVFileParser.swift"
+                  timestampString = "524036089.487967"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReboBankAssignment/CSVFileParser.swift"
+            timestampString = "524035196.330801"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "split(_:string:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReboBankAssignment/CSVFileParser.swift"
+            timestampString = "524035299.743226"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "split(_:string:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReboBankAssignment/CSVFileParser.swift"
+            timestampString = "524035334.966756"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "init(with:separator:headers:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReboBankAssignment/CSVFileParser.swift"
+            timestampString = "524035524.523718"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "cells(forRow:separator:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReboBankAssignment/CSVFileParser.swift"
+            timestampString = "524035532.059807"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "cells(forRow:separator:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReboBankAssignment/CSVFileParser.swift"
+            timestampString = "524035797.484791"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "records(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static ReboBankAssignment.CSVFileParser.records (from : Swift.String) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "ReboBankAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Naveen/ReboBankAssignment/ReboBankCodeTest/ReboBankAssignment/CSVFileParser.swift"
+                  timestampString = "524036089.50154"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static ReboBankAssignment.CSVFileParser.(records (from : Swift.String) -&gt; Swift.Array&lt;Swift.String&gt;).(closure #1)"
+                  moduleName = "ReboBankAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Naveen/ReboBankAssignment/ReboBankCodeTest/ReboBankAssignment/CSVFileParser.swift"
+                  timestampString = "524036089.502688"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "20">
                </Location>
             </Locations>
          </BreakpointContent>
